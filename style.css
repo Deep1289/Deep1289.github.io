@@ -44,10 +44,10 @@ a {
 }
  
 .profile {
-  background: #fff;
+  background: rgb(255, 255, 255);
   width: 40%;
   float: left;
-  color: #9099a0;
+  color: #012901;
 }
 @media (max-width: 850px) {
   .profile {
@@ -161,7 +161,7 @@ a {
   text-align: left;
   font-weight: 600;
   width: 40%;
-  color: #4a4e51;
+  color: #001a12;
 }
 .profile .list-content {
   float: left;
@@ -202,7 +202,7 @@ a {
   width: 60%;
   float: left;
   position: relative;
-  color: #9099a0;
+  color: #d8dbdd;
   font-weight: 300;
   min-height: 100%;
   min-height: 100vh;
@@ -213,7 +213,7 @@ a {
   }
 }
 .experience h3.experience-title {
-  color: #66cc99;
+  color: #f4f8f6;
   text-align: left;
   text-transform: uppercase;
   font-size: 1.2em;
@@ -247,7 +247,7 @@ a {
   }
 }
 .experience .experience-title {
-  color: white;
+  color: rgb(141, 253, 201);
   margin-bottom: 15px;
 }
  
@@ -310,7 +310,7 @@ a {
   bottom: 0;
 }
 .section-wrapper .skill-percentage:nth-child(1)::before {
-  width: 80%;
+  width: %;
   -webkit-animation: skill_1 0.6s ease;
           animation: skill_1 0.6s ease;
 }
